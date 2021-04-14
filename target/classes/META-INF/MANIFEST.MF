@@ -3,7 +3,7 @@ Implementation-Title: spring-boot-zy
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: zhangyang
 Implementation-Vendor-Id: com.zy
-Build-Jdk: 1.8.0_241
+Build-Jdk: 1.8.0_91
 Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
  zy/
 Created-By: Maven Integration for Eclipse
